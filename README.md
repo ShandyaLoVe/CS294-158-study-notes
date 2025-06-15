@@ -47,5 +47,5 @@ Some scripts are inspired by open-source implementations but are restructured fo
 You are welcome to browse the materials here if you are also studying unsupervised learning or following the CS294-158 course independently.
 
 ```bash
-git clone https://github.com/your-username/cs294-158-learning.git
+git clone https://github.com/ShandyaLoVe/cs294-158-learning.git
 cd cs294-158-learning
